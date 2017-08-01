@@ -5,10 +5,16 @@
 ## Build Setup
 
 ``` bash
-# install dependencies
+# 下载或克隆下来，安装依赖
 npm install
 
-# serve with hot reload at localhost:8080
+# 本地开启数据库
+mongod --dbpath="..\db"
+
+#开启后端服务器
+supervisor start Server.js
+
+#运行前端代码 serve with hot reload at localhost:8080
 npm run dev
 
 # build for production with minification

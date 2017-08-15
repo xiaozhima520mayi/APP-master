@@ -24,6 +24,6 @@ npm run build
 npm run build --report
 ```
 ## 
-![image](https://github.com/qijianwei/mobileDP/blob/master/demoImg/1.png)
-![image](https://github.com/qijianwei/mobileDP/blob/master/demoImg/2.png)
-![image](https://github.com/qijianwei/mobileDP/blob/master/demoImg/3.png)
+![image](https://github.com/xiaozhima520mayi/APP-master/blob/master/demoImg/1.png)
+![image](https://github.com/xiaozhima520mayi/APP-master/blob/master/demoImg/2.png)
+![image](https://github.com/xiaozhima520mayi/APP-master/blob/master/demoImg/3.png)
